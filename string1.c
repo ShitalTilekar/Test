@@ -14,4 +14,4 @@ else
 printf("They are not equal \n");
 return 0;
 }
-
+//
